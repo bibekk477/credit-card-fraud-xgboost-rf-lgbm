@@ -3,3 +3,7 @@ Data/*.csv
 
 # Virtual environment
 venv/
+
+
+# Ignore MLflow run artifacts
+mlruns/
