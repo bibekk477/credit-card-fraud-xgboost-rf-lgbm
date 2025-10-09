@@ -6,4 +6,5 @@ scikit-learn
 xgboost
 lightgbm
 imbalanced-learn
+category_encoders
 shap
