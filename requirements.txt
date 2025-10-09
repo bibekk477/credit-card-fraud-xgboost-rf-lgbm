@@ -1,6 +1,7 @@
 pandas
 numpy
 mlflow
+seaborn
 scikit-learn
 xgboost
 lightgbm
